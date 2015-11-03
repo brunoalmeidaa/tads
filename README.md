@@ -1,2 +1,2 @@
 # tads
-Trabalalho acadêmicos
+Traballhos acadêmicos
